@@ -14,7 +14,7 @@ config = {
         "port": 5000,
         "debug": True,
     },
-    "database": {
-        "host": "http://0.0.0.0:3000",
+    "postgrest": {
+        "host": "http://127.0.0.1:3000/",
     }
 }
