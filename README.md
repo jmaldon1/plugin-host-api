@@ -1,6 +1,6 @@
 # Python Basic Template
 
-Basic template for starting python projects quickly
+Plugin host api
 
 # Table of Contents
 - [Python Basic Template](#python-basic-template)
