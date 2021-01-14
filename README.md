@@ -3,7 +3,7 @@
 Plugin host api
 
 # Table of Contents
-- [Python Basic Template](#python-basic-template)
+- [Plugin Host API](#plugin-host-api)
 - [Table of Contents](#table-of-contents)
 - [How to set up](#how-to-set-up)
 - [How to run](#how-to-run)
