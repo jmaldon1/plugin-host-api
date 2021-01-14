@@ -1,4 +1,4 @@
-# Python Basic Template
+# Plugin Host API
 
 Plugin host api
 
